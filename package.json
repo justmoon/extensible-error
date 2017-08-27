@@ -2,8 +2,11 @@
   "name": "extensible-error",
   "version": "1.0.1",
   "description": "Error base class for Node.js/browsers",
-  "main": "dist/index.js",
-  "typings": "dist/index",
+  "main": "dist/src/index.js",
+  "typings": "dist/src/index",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "mocha",
     "build": "rm -rf dist ; tsc",
