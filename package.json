@@ -1,6 +1,6 @@
 {
   "name": "extensible-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Error base class for Node.js/browsers",
   "main": "dist/index.js",
   "typings": "dist/index",
